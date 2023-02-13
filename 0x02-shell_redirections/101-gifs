@@ -1,6 +1,0 @@
-#!/bin/bash
-<<<<<<< HEAD
-find . -type f -name \*.gif -printf "%f\n" | LC_ALL=C sort -f | rev | cut -b 5- | rev 
-=======
-find . -type f -name \*.gif -printf "%f\n" | LC_ALL=C sort -f | rev | cut -b 5- | rev
->>>>>>> 993d7c4673ac013cc67e05f5aabfa2e88a5c87de
